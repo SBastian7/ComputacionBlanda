@@ -1,2 +1,5 @@
-# ComputacionBlanda
-Documentos Computación Blanda UTP - Sebastián Molina
+# Computación Blanda
+
+Documentos Computación Blanda UTP 
+Realizados por Sebastián Molina
+ISC - UTP
